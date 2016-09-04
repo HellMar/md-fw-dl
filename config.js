@@ -145,7 +145,9 @@ sites:{
   "ffeldomaene03" : {id:"ffeldomaene03",short:"ffel03",fwurl:"firmware.freifunk-emscherland.de/domaene03",name:"Dorsten/Marl (Freifunk-Emscherland)",
 	  version:"0.0.5", version_base:"2016.1.5", on_map: true},
   "ffeldomaene04" : {id:"ffeldomaene04",short:"ffel04",fwurl:"firmware.freifunk-emscherland.de/domaene04",name:"Haltern am See/Raesfeld (Freifunk-Emscherland)",
-	  version:"0.0.5", version_base:"2016.1.5", on_map: true}
+	  version:"0.0.5", version_base:"2016.1.5", on_map: true},
+  "test" : {id:"test",short:"",fwurl:"firmware.freifunk-emscherland.de/domaene04",name:"LinkTest",
+	  version:"", version_base:"", on_map: false}
 },
 
 manufacturers: {
